@@ -26,7 +26,8 @@
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true"
         android:layout_above="@+id/createButton"
-        android:layout_below="@+id/progressBar" />
+        android:layout_below="@+id/progressBar"
+        android:id="@+id/listText" />
 
     <Button
         android:text="Create"
